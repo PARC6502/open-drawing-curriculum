@@ -1,6 +1,4 @@
-[TOC]
-
-
+# Drawing Exercises
 
 ### Superimposing lines
 
