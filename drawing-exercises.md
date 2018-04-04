@@ -1,5 +1,13 @@
 # Drawing Exercises
 
+### Drawing from the shoulder
+
+I am by no means an expert drawing, in fact I am barely even a beginner. However I have still come across this over and over again. It is mentioned in the Proko tutorials, it is heavily emphasised in drawabox, it is one of the first things taught in ctrl+paint's foundation videos. Draw from the shoulder, not the wrist.
+
+Practice this by filling a page with lines, ellipses, and curves drawn from the shoulder. Focus on locking the wrist as you do this. Do not worry about line accuracy for this exercise, focus instead on fluidity. 
+
+As you do other exercises keep this in mind.
+
 ### Superimposing lines
 
 Draw a straight line using a straight edge. After that draw over that line eight times. Do the same with curves.
