@@ -10,7 +10,7 @@ I am currently learning to draw and am pretty serious about it. Whilst I've foun
 
 What should I do first? How much time should I spend on doing drawabox exercises versus actually drawing? When I'm still at the beginning of my drawing journey how do I apply what I learn from the drawing exercises to my own journey? How do I go about drawing things from my imagination?
 
-I hope to create resource that collects all this information, and more, in a single place. I want this to be the definitive free resource on how to go about learning to draw, from just starting off, and how to continue to improve. 
+I hope to create a resource that collects all this information, and more, in a single place. I want this to be the definitive free resource on how to go about learning to draw, from just starting off, and how to continue to improve. 
 
 ## Contents
 
