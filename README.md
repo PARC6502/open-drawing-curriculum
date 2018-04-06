@@ -1,7 +1,10 @@
 ## Contents
 
-1. [Free Resources](https://github.com/PARC6502/open-drawing-curriculum/blob/master/free-resources.md)
-2. [Drawing Exercises](https://github.com/PARC6502/open-drawing-curriculum/blob/master/drawing-exercises.md)
+1. [What is this?](#what-is-this?)
+2. [Motivation](#motivation)
+3. [Drawing Fundamentals](#drawing-fundamentals)
+4. [Free Resources](https://github.com/PARC6502/open-drawing-curriculum/blob/master/free-resources.md)
+5. [Drawing Exercises](https://github.com/PARC6502/open-drawing-curriculum/blob/master/drawing-exercises.md)
 
 ## What is this?
 
@@ -17,3 +20,14 @@ What should I do first? How much time should I spend on doing drawabox exercises
 
 I hope to create a resource that collects all this information, and more, in a single place. I want this to be the definitive free resource on how to go about learning to draw, from just starting off, and how to continue to improve. 
 
+## Drawing Fundamentals
+
+These are the things people are referring to when they talk about the fundamentals:
+
+* **Perception** - learning to see, seiing what is in front of you rather than the symbols you have for things in your head
+* **Construction** - building up a drawing from basic shapes: spheres, cylinders and cubes/boxes
+* **Gesture** - capturing the movement, or flow, of the object/figure/etc
+* **Rendering** 
+* **Composition**
+* **Perspective**
+* **Anatomy**
