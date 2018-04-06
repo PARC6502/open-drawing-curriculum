@@ -1,6 +1,6 @@
 ## Contents
 
-1. [What is this?](#what-is-this?)
+1. [What is this?](#what-is-this)
 2. [Motivation](#motivation)
 3. [Drawing Fundamentals](#drawing-fundamentals)
 4. [Free Resources](https://github.com/PARC6502/open-drawing-curriculum/blob/master/free-resources.md)
